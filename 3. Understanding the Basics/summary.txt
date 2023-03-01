@@ -1,2 +1,13 @@
 
+
 //11 done 
+
+//13 done 
+
+//16 done
+
+
+//what i learn
+       node js is single thread 
+       it follows non blocking architecture --> if some process took more time { File Read Write, Networking } then node will run another code
+       node is work on event loop
