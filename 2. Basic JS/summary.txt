@@ -2,3 +2,12 @@
 1. Weakly Typed Language ( No need to specify varible type, Data Types can be switch dynamically)
 2. Object-Oriented Language (primitive and refrence types visit link :# )
 3. Versatile Language (Runs in browser || on a PC/Server )
+
+//4. let & const
+let --> 
+
+// 5 Complete
+
+//10 Complete 03:18
+
+// all done
