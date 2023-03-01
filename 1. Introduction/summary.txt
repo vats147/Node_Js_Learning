@@ -1,0 +1,7 @@
+// 6 video done => Course Outline
+
+// 8 video --> REPL
+              - R Read
+              - E Eval
+              - P Print
+              - L Loop
