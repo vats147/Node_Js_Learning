@@ -1,1 +1,3 @@
-// 7 completed
+--> add start command in nodejs for runnign specific file
+       now i can run npm run start for running app.js
+       
