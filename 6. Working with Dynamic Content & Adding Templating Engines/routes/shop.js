@@ -13,7 +13,7 @@ router.get('/', (req, res, next) => {
 
   const products=adminData.products;
 
-  res.render('shop',{prods:products,title:'mytitle'});
+  res.render('shop',{prods:products,pageTitle :'mytitle'});
 });
 
 module.exports = router;
